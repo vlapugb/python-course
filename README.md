@@ -13,6 +13,8 @@
   - хорошо/зачет - 55+ баллов
   - удовлетворительно - 45+ баллов
 
+[Таблица с результатами](https://docs.google.com/spreadsheets/d/12lW4PEiQ1HMkbg0foYj0i_Sg6sSlpHe6LQawnakX3j0/edit?usp=sharing)
+
 <h4>Формулировки практических заданий</h4>
 
 1. [Введение в язык](https://github.com/MelLain/mipt-python/blob/spring-2024/tasks/01-intro.ipynb)
