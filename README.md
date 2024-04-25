@@ -31,6 +31,6 @@
 6. [Представление, обработка, анализ и визуализация данных](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/06-data.ipynb)
 7. [Введение в инструменты для машинного обучения](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/07-ml.ipynb)
 8. [Управление версиями Python, виртуальные окружения, контейнеры](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/08-environment.ipynb)
-9. [Модули и пакеты Python, Web-разработка — клиентская часть]
-10. [Асинхронность. Web-разработка — серверная часть]
-11. [Методы повышения эффективности кода]
+9. [Модули и пакеты Python](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/09_dev_tools.ipynb), [Web-разработка — клиентская часть](https://github.com/MelLain/mipt-python/blob/spring-2024/lectures/09-web-intro.ipynb)
+10. Асинхронность. Web-разработка — серверная часть
+11. Методы повышения эффективности кода
